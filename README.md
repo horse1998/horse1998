@@ -1,0 +1,1 @@
+- 👋 Olá, sou o Horse, estudante novato. 
