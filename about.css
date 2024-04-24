@@ -1,0 +1,12 @@
+.meio {text-align: center}
+body {
+    background: linear-gradient(to top left, #070F2B, #1B1A55, #535C91, #9290C3);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;}
+.header {
+    font-family: 'Segoe UI';
+    font-weight: bolder;
+    font-size: 60px;
+    color: white;
+}
